@@ -49,7 +49,6 @@ def sendingRequest(msg, initiator, helper):
    query = query.replace('*', '%2A') 
 
    # sort parameters
-   #querystring_sorted = '&'.join(sorted(parsedurl.query.split('&')))
 
    querystring_sorted = '&'.join(sorted(query.split('&')))
       
