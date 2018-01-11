@@ -12,15 +12,11 @@ ZAP Proxy 2.7.0
 
 For Jython installation:
 
-```
 http://www.jython.org/downloads.html
-```
 
 ## Usage
 
-```
-https://github.com/zaproxy/zap-core-help/wiki/HelpAddonsScriptsScripts
-```
+Refer to https://github.com/zaproxy/zap-core-help/wiki/HelpAddonsScriptsScripts
 
 ## Authors
 
