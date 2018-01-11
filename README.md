@@ -19,8 +19,8 @@ http://www.jython.org/downloads.html
 ## Usage
 
 ```
-https://github.com/zaproxy/zap-core-help/wiki/HelpAddonsScriptsScripts```
-
+https://github.com/zaproxy/zap-core-help/wiki/HelpAddonsScriptsScripts
+```
 
 ## Authors
 
