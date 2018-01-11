@@ -1,6 +1,6 @@
 # aws-signing-for-owasp-zap
 
-aws-signing-for-owasp-zap is an Help Add On Script for OWASP Zed Attack Proxy. It signs all requests for AWS.
+aws-signing-for-owasp-zap is a Help Add-On Script for OWASP Zed Attack Proxy. It signs all requests for AWS.
 
 ### Prerequisites
 
